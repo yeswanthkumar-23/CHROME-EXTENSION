@@ -10,6 +10,8 @@
 
 "DURATION":8 weeks
 
+"MENTOR":NEELA SANTOSH
+
 "DESCRIPTION":
 
 A Chrome Extension for Productivity Analysis and Time Tracking built using Next.js is a web-based tool designed to help users monitor and optimize their online activities. This extension automatically tracks the time spent on different websites and categorizes them as productive (e.g., coding, learning platforms) or unproductive (e.g., social media, entertainment). By integrating Next.js, it provides a fast, scalable, and SEO-friendly frontend for rendering user dashboards and analytics.
