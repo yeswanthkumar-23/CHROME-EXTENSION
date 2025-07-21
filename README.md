@@ -20,3 +20,9 @@ This full-stack solution combines the power of React-based UI (Next.js), Chrome 
 
 "OUTPUT":
 
+<img width="1920" height="874" alt="Image" src="https://github.com/user-attachments/assets/4a852ca3-aad7-4030-8363-88b877566438" />
+
+<img width="1920" height="878" alt="Image" src="https://github.com/user-attachments/assets/e5901082-1f6b-4134-8395-a6c9c12fae0f" />
+
+<img width="1920" height="877" alt="Image" src="https://github.com/user-attachments/assets/bc40dec7-4d5a-4b7a-885b-34d105dc0205" />
+
