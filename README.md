@@ -2,7 +2,7 @@
 
 "COMPANY":CODETECH IT SOLUTIONS
 
-"NAME":Girijala LakshmiGuna Yashwanth kumar
+"NAME":Girijala Lakshmi Guna Yashwanth kumar
 
 "INTERN ID":CT08DF97
 
