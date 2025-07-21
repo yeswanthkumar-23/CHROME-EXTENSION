@@ -6,7 +6,7 @@
 
 "INTERN ID":CT08DF97
 
-"DOMIAN":Full Stack Web Development
+"DOMAIN":Full Stack Web Development
 
 "DURATION":8 weeks
 
